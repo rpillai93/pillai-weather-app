@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\public",
+    "\\public\\css",
+    "\\public\\img",
+    "\\public\\js",
+    "\\src",
+    "\\src\\utils",
+    "\\templates",
+    "\\templates\\partials",
+    "\\templates\\views"
+  ],
+  "SelectedNode": "\\templates\\partials\\footer.hbs",
+  "PreviewInSolutionExplorer": false
+}
