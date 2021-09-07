@@ -6,11 +6,9 @@
     "\\public\\img",
     "\\public\\js",
     "\\src",
-    "\\src\\utils",
-    "\\templates",
     "\\templates\\partials",
     "\\templates\\views"
   ],
-  "SelectedNode": "\\templates\\partials\\footer.hbs",
+  "SelectedNode": "\\public\\js\\app.js",
   "PreviewInSolutionExplorer": false
 }
